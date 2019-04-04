@@ -20,7 +20,7 @@
 #	127.0.0.1       localhost
 #	::1             localhost
 127.0.0.1	www.google.com
-127.0.0.1	www.youtube.com/
+127.0.0.1	www.youtube.com
 127.0.0.1	experiments.withgoogle.com
 127.0.0.1	developers.google.com
 127.0.0.1	webmasters.googleblog.com
