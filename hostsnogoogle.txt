@@ -1,0 +1,99 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+127.0.0.1	www.google.com
+127.0.0.1	www.youtube.com/
+127.0.0.1	experiments.withgoogle.com
+127.0.0.1	developers.google.com
+127.0.0.1	webmasters.googleblog.com
+127.0.0.1	ai.googleblog.com
+127.0.0.1	googleblog.com
+127.0.0.1	blog.google
+127.0.0.1	www.blog.google
+127.0.0.1	www.googleblog.com
+127.0.0.1	ads-developers.googleblog.com
+127.0.0.1	https://ads-developers.googleblog.com/
+127.0.0.1	adsense.googleblog.com
+127.0.0.1	get.google.com
+127.0.0.1	www.thinkwithgoogle.com
+127.0.0.1	www.widevine.com
+127.0.0.1	your.googlemerchandisestore.com
+127.0.0.1	nest.com
+127.0.0.1	www.itasoftware.com
+127.0.0.1	news.google.com
+127.0.0.1	books.google.com
+127.0.0.1	bumptop.github.io
+127.0.0.1	www.zagat.com
+127.0.0.1	marketingplatform.google.com
+127.0.0.1	www.android.com
+127.0.0.1	plus.google.com
+127.0.0.1	firebase.google.com
+127.0.0.1	www.allforgood.org
+127.0.0.1	www.instantiations.com
+127.0.0.1	ads.google.com
+127.0.0.1	support.google.com
+127.0.0.1	assistant.google.com
+127.0.0.1	groups.google.com
+127.0.0.1	www.igoogleportal.com/
+127.0.0.1	www.blogger.com
+127.0.0.1	photos.google.com
+127.0.0.1	analytics.google.com
+127.0.0.1	https://analytics.google.com/analytics/web/provision/?authuser=0#/provision
+127.0.0.1	docs.google.com
+127.0.0.1	www.sketchup.com
+127.0.0.1	sites.google.com
+127.0.0.1	accounts.google.com
+127.0.0.1	www.adscape.com/
+127.0.0.1	www.gapminder.org
+127.0.0.1	*.google.*
+127.0.0.1	marketingplatform.google.com
+127.0.0.1	gsuite.google.com
+127.0.0.1	cloud.withgoogle.com
+127.0.0.1	admob.google.com
+127.0.0.1	www.gipscorp.com/
+127.0.0.1	www.invitemedia.com/
+127.0.0.1	makanipower.com
+127.0.0.1	www.google.ca
+127.0.0.1	www.waze.com
+127.0.0.1	flutter.dev
+127.0.0.1	deepmind.com
+127.0.0.1	cloud.google.com
+127.0.0.1	play.google.com
+127.0.0.1	www.liftware.com
+127.0.0.1	firebase.google.com
+127.0.0.1	www.orbitera.com
+127.0.0.1	cloud.google.com
+127.0.0.1	console.cloud.google.com
+127.0.0.1	edu.google.com
+127.0.0.1	www.owlchemylabs.com
+127.0.0.1	www.bitium.com
+127.0.0.1	tenor.com
+127.0.0.1	www.onehourpersecond.com/
+127.0.0.1
+127.0.0.1
+127.0.0.1
+127.0.0.1
+127.0.0.1
+127.0.0.1
+127.0.0.1
+127.0.0.1
+
+0.0.0.1	mssplus.mcafee.com
