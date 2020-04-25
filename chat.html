@@ -2,16 +2,22 @@
 <html>
 <style>
 #image {
-  height: 256px;
-  width: 256px;
+  height: 150px;
+  width: 150px;
 background: 
 url('https://miro.medium.com/max/162/1*JP-9BizwTVXEqcDhRLlR9A.png') 0px 0px;
 }
 </style>
 
 <div id="demo">
-  <p id="image"> blah </p>
+  <p id="image" onmouseover="animateScript()">  </p>
 </div>
 
+<script>
+ 
+function animateScript() {document.getElementById("image").style.backgroundPosition = 
+`-256px 0px`;}
+ 
+</script>
 
 </html> 
